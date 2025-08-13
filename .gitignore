@@ -1,0 +1,5 @@
+# Ignore everything in the data/ directory
+data/*
+
+# But keep the directory itself so it still exists in the repo
+!data/.gitkeep
